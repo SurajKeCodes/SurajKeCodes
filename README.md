@@ -78,8 +78,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajkecodes&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
-  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=surajkecodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkecodes&theme=tokyonight" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkecodes&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -91,7 +90,7 @@
 
 <!-- Highlight 2-3 of your best repos below -->
 <p align="center">
-  <a href="https://github.com/surajkecodes/project1">
+  <a href="https://github.com/surajkecodes/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkecodes&repo=project1&theme=tokyonight" width="380"/>
   </a>
   <a href="https://github.com/surajkecodes/project2">
