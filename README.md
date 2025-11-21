@@ -65,17 +65,33 @@
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkecodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajkecodes&theme=tokyonight" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkecodes&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajKeCodes&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajKeCodes&theme=tokyonight" height="180" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajkecodes&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKeCodes&layout=compact&theme=tokyonight&langs_count=10" height="160" />
+
+</p>
+
+<p align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajKeCodes&theme=tokyo-night&hide_border=true" height="280" />
+
 </p>
 
 ---
+
 
 ### 🌟 Featured Projects
 
