@@ -87,11 +87,12 @@
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/SurajKeCodes/YOUR_OTHER_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKeCodes&repo=YOUR_OTHER_REPO_NAME&theme=tokyonight" width="380" />
+  <a href="https://github.com/SurajKeCodes/MultiBrain-RAG-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKeCodes&repo=MultiBrain-RAG-Engine&theme=tokyonight" width="380" />
   </a>
 
 </p>
+
 
 ---
 
