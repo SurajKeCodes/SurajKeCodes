@@ -78,13 +78,19 @@
 ---
 
 ### 🌟 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/surajkecodes/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkecodes&repo=project1&theme=tokyonight" width="380"/>
+
+  <!-- Project 1 -->
+  <a href="https://github.com/SurajKeCodes/-FACESNAP_AI_FaceRecognition_Attendance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKeCodes&repo=-FACESNAP_AI_FaceRecognition_Attendance&theme=tokyonight" width="380" />
   </a>
-  <a href="https://github.com/surajkecodes/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkecodes&repo=project2&theme=tokyonight" width="380"/>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/SurajKeCodes/YOUR_OTHER_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajKeCodes&repo=YOUR_OTHER_REPO_NAME&theme=tokyonight" width="380" />
   </a>
+
 </p>
 
 ---
